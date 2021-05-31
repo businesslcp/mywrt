@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: OpenWrtA1
+name: OA1
 
 on:
   repository_dispatch:
