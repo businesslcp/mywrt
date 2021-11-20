@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: 开源WiFi3
+name: 开源WiFi-3
 
 on:
   repository_dispatch:
